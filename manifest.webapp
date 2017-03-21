@@ -1,0 +1,22 @@
+﻿{
+	"name": "FlyingAlong",
+	"description": "Flying spaceship game",
+	"version": "1.0",
+	"launch_path": "/flying-open/",
+	"orientation": ["portrait", "landscape"],
+	"icons": {
+		"16": "/flying-open/icon-16.png",
+		"32": "/flying-open/icon-32.png",
+		"128": "/flying-open/icon-128.png",
+		"256": "/flying-open/icon-256.png"
+	},
+	"developer": {
+		"name": "",
+		"url": ""
+	},
+	"default_locale": "en",
+	"permissions": {
+	},
+	"appcache_path": "/flying-open/offline.appcache",
+	"fullscreen": "true"
+}
